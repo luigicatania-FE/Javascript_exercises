@@ -1,0 +1,13 @@
+.enlarged {
+  position:absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transform: scale(2);
+  z-index: 1;
+}
+
+.hover:hover{
+  cursor: pointer;
+  background-color: rgb(150, 245, 150);
+}
